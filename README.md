@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yedboy
+- 👋 Hai, I’m @Yedboy :3
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and shit
 - 😄 Pronouns: he/him
 
 <!---
