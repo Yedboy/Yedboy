@@ -1,7 +1,7 @@
-- 👋 Hai, I’m @Yedboy :3
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning C++ and whatever shit
-- 😄 Pronouns: he/him
+-  haii, it's me :3
+-  I’m interested in tech
+-  I’m currently learning C++ and whatever shit
+-  Pronouns: he/him
 
 
 And if you need something from me, contact xxyedboy97xx@outlook.com
