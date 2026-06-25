@@ -1,6 +1,4 @@
-haii, it's me :3
-i'm interested in technology, C++, HTML, and whatever stuff
-i'm currently developing my website and cmd7, 1.1 is expected to come soon today or something
+haii, it's me :3 i'm interested in technology, C++, HTML, and whatever stuff. i'm currently developing my website and cmd7, 1.1 is expected to come soon today or something
 
 pronouns are he/him obviously
 
